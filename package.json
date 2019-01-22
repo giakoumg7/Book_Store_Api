@@ -5,24 +5,29 @@
   "main": "server.ts",
   "scripts": {
     "start-server": "ts-node server.ts",
-    "start": "nodemon -e ts -w ./ -x npm run start-server"
+    "start": "nodemon -e ts -w ./ -x npm run start-server",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giakoumg7/API.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/giakoumg7/API/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/giakoumg7/API#readme",
+  "homepage": "",
   "devDependencies": {
     "@types/express": "^4.16.0",
     "@types/node": "^10.12.18",
     "@types/uuid": "^3.4.4",
     "nodemon": "^1.18.9",
+    "prettier": "^1.15.3",
     "ts-node": "^7.0.1",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
     "typescript": "^3.2.2"
   },
   "dependencies": {

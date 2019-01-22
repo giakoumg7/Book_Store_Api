@@ -9,7 +9,7 @@ export class BookDetails extends BookSummary {
     constructor(bookData: any, reviewData: any) {
         super(bookData);
         this.bookCategory = bookData.bookCategory;
-        this.bookDescription = bookData.tourDescription;
+        this.bookDescription = bookData.bookDescription;
         this.price = bookData.price;
         this.reviews = reviewData.map((item: any) => new Review(item));
     }
