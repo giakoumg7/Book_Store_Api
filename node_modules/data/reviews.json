@@ -1,0 +1,34 @@
+[
+    {
+        "bookID" : "id-0",
+        "reviewtitle" : "Great book really enjoyed reading it",
+        "stars" : "5"
+        
+    },
+
+    {
+        "bookID" : "id-1",
+        "reviewtitle" : "Great book really enjoyed reading it",
+        "stars" : "4"
+    },
+
+    {
+        "bookID" : "id-2",
+        "reviewtitle" : "Great book really enjoyed reading it",
+        "stars" : "5"
+
+    },
+
+    {
+        "bookID" : "id-3",
+        "reviewtitle" : "Great book really enjoyed reading it",
+        "stars" : "4"
+    },
+
+    {
+        "bookID" : "id-4",
+        "reviewtitle" : "Great book really enjoyed reading it",
+        "stars" : "5"
+    }
+
+]

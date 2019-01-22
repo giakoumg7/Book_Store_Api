@@ -1,0 +1,54 @@
+[
+    {
+        "id" : "id-0",
+        "title" : "War and Peace",
+        "author" : "Leo_Tolstoy",
+        "publication_year" : "1867",
+        "category" : "LITERARY_REALISM",
+        "description" : "The novel chronicles the history of the French invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian aristocratic families",
+        "price" : "45€"
+
+    },
+
+    {
+        "id" : "id-1",
+        "title" : "The Grapes of Wrath",
+        "author" : "John_Steinbeck",
+        "publication_year" : "1939",
+        "category" : "DRAMA",
+        "description" : "Set during the Great Depression, the novel focuses on the Joads, a poor family of tenant farmers driven from their Oklahoma home by drought, economic hardship, agricultural industry changes, and bank foreclosures forcing tenant farmers out of work.",
+        "price" : "50€"
+    },
+
+    {
+        "id" : "id-2",
+        "title" : "The Murderess",
+        "author" : "Alexandros_Papadiamantis",
+        "publication_year" : "1903",
+        "category" : "DRAMA",
+        "description" : "The Murderess is a bone-chilling tale of crime and punishment with the dark beauty of a backwoods ballad. Set on the dirt-poor Aegean island of Skiathos, it is the story of Hadoula, an old woman living on the margins of society and at the outer limits of respectability.",
+        "price" : "40"
+
+    },
+
+    {
+        "id" : "id-3",
+        "title" : "Captain Michalis",
+        "author" : "Nikos_Kazantzakis",
+        "publication_year" : "1950",
+        "category" : "DRAMA",
+        "description" : "The book deals with the rebellion of the Cretans against the Ottoman Empire in 1889.",
+        "price" : "35€"
+    },
+
+    {
+        "id" : "id-4",
+        "title" : "Christ Recrucified",
+        "author" : "Nikos_Kazantzakis",
+        "publication_year" : "1954",
+        "category" : "DRAMA",
+        "description" : "The story concerns the attempts of a Greek village community to stage a Passion Play - which, as the title suggests, ends up with their in effect re-enacting the events of Jesus Christ's trial, suffering and death. It takes place in a Greek village, Lycovrisi (Wolf-spring), under Ottoman rule.",
+        "price" : "55€"
+    }
+
+]
