@@ -3,8 +3,9 @@ export class BookSummary {
     public id: [string];
     public title: [string];
     public author: [string];
-    public publication_year:[string];
-    public category:[string];
+    // tslint:disable-next-line:variable-name
+    public publication_year: [string];
+    public category: [string];
     public description: [string];
     constructor(data: any) {
         this.id = data.id;

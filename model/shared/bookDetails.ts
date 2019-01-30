@@ -1,5 +1,5 @@
-import { Review } from "./reviews";
 import { BookSummary } from "./bookSummary";
+import { Review } from "./reviews";
 
 export class BookDetails extends BookSummary {
     public bookCategory: [string];
